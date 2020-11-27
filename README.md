@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Used styled-component bootstrap
+
+# Deployed At : https://tech-store-ebd21.web.app
 
 ## Available Scripts
 
